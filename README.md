@@ -1,4 +1,4 @@
-<p><h1 align="center">Hi, I'm One Dionys 👋</h1></p>
+<p><h1 align="center">Hey, I'm One Dionys 👋</h1></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/onedionys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
 <a href="mailto:onedionys@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
